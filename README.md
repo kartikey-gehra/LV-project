@@ -1,4 +1,4 @@
 # LV-project
 this is my first program
-\n
+<br>
 auther - kartikey
